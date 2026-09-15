@@ -2,7 +2,7 @@
 
 I'm a Data Science student at the University of Florida interested in the space where **product, data, and AI** come together.
 
-I like building things from the ground up — figuring out the problem, talking to users, deciding what should actually be built, and getting technical enough to help make it happen. I've worked across **consumer AI, product management, data & risk consulting, research, and analytics**, with experience at early-stage startups, Deloitte, and research labs at UF.
+I like building things from the ground up! figuring out the problem, talking to users, deciding what should actually be built, and getting technical enough to help make it happen. I've worked across **consumer AI, product management, data & risk consulting, research, and analytics**, with experience at early-stage startups, Deloitte, and research labs at UF.
 
 Some highlights so far:
 - 💡 Shipped and shaped consumer AI features as a **Product Management Intern**
