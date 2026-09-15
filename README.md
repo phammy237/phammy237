@@ -8,7 +8,7 @@ Some highlights so far:
 - 💡 Shipped and shaped consumer AI features as a **Product Management Intern**
 - 📊 Worked on data governance, system requirements, and analytics at **Deloitte**
 - 🔬 Modeled **500K+ records** through undergraduate research at UF
-- 🤝 Serve as **External Vice President of UF Data Science & Informatics**
+- 🤝 Serve as **External Vice President of UF Data Science & Informatics** and **Operations Committee Head of WiNGHacks**
 - 🏆 Emerging Gator Award, Dean's List, and awards across case competitions & hackathons
 - 🛠️ Built projects across AI, recommendation systems, computer vision, analytics, backend systems, and good old C++
 
